@@ -7,7 +7,7 @@ h1   {color: black; text-align:left;font: 16px lato;
 			padding:0% 5% 5% 5%;}
 p    {color: black; text-align:center;font: 36px lato;}
 #intro{
-	background-color: #F5F5F5;
+	background-color: #FFFFFF;
 	width:80%;
 	min-width: 800px;
 	color:#000000;
@@ -19,7 +19,7 @@ p    {color: black; text-align:center;font: 36px lato;}
 	display:inline-block
 }
 #teams{
-	background-color: #F5F5F5;
+	background-color: #FFFFFF;
 	width:80%;
 	min-width: 800px;
 	color:#000000;
@@ -68,7 +68,7 @@ p    {color: black; text-align:center;font: 36px lato;}
 
 <body>
 <div id="header">
-<img src = "http://veryinterestinglinktoteamimage.jpg">
+<img src = "https://i.imgur.com/iI7F3pP.jpg">
 <a id="button" href="sponsors.html"><u>Sponsors</u></a>
 <a id="button" href="subteams.html"><u>Subteams</u></a>
 <a id="button" href="pictures.html"><u>Pictures</u></a>
@@ -84,9 +84,10 @@ p    {color: black; text-align:center;font: 36px lato;}
 	Who We Are
 </h2>
 
-Team 4533, Wando Advanced Robotics, is a FIRST ® team located in Mount Pleasant, South Carolina. Alongside inspiring students from 
-Wando High School and Academic Magnet, members of Team 4533 participate in the yearly FIRST ® Robotics Competition. The subteams included are the
-programming, build, CAD, and imagery team, who participate in FIRST Robotics Competitions (FRC) and  promote the values of FIRST ® robotics.
+Team 4533, Wando Advanced Robotics, is a FIRST ® team located in Mount Pleasant, South Carolina. With inspiring students from 
+Wando High School and Academic Magnet, members of Team 4533 participate in the yearly FIRST ® Robotics Competition. Through the
+programming, build, CAD, and imagery team, Wando Robotics members engage in FIRST Robotics Competitions (FRC) and 
+promote the values of FIRST ® robotics.
 
 <hr>
 
@@ -94,11 +95,11 @@ programming, build, CAD, and imagery team, who participate in FIRST Robotics Com
 	What is FIRST ®?
 </h2>
 
-Every year, thousands of robotics teams from around the globe participate in a yearly, unique competition where the participants work and engage
-for 6 weeks building and programming a robot for competitions. Following a set of guidelines and following the game rules, the students engage
+Every year, thousands of robotics teams from around the globe participate in a yearly, unique game where the participants work and engage
+for 6 weeks building and programming a robot for competitions. Using set of guidelines and following the game rules, the students engage
 and help inspire others to spread the message of FIRST ®. FIRST ® offers a wide range of opportunities and mentoring, and students learn to enhance
-their technology skills in building, programming, as well as building leadership skills through teamwork.
-The competitions every year focus on promoting creative and innovative ideas that help students in their future. In 2017, over 6000 teams participated in the FRC
+their technology skills in building and programming, as well as building leadership skills and working together as a team.
+The games every year focuses on promoting creative and innovative ideas that help them in their future. In 2017, over 6000 teams participated in the FRC
 Robotics Competition. FRC also has many teams outside of North America with teams in France, UK, Germany, China, Japan, Taiwan, Chile, Brazil, Vietnam,
 Isreal, and many more. Every year, teams compete at regional and state level competitions in an attempt to gain a spot at the invitational World 
 Competitions in St. Louis and Houston.
@@ -108,8 +109,14 @@ Competitions in St. Louis and Houston.
 <center><p style="font-size: 30px">2018 Competition Dates: See You There!</p></center>
 
 <ul>
-	<li>March 14: Rocket City Reigonal. Huntington, Alabama</li>
-	<li>March 28: South Florida Reigonal. West Palm Beach, Florida</li>
+	<li><a href="https://www.thebluealliance.com/event/2018alhu">March 14: Rocket City Reigonal. Huntington, Alabama</a></li>
+	<li><a href="https://www.thebluealliance.com/event/2018flwp">March 28: South Florida Reigonal. West Palm Beach, Florida</a></li>
+	
+	
+<hr>
+	<center><p>FIRST Robotics</p></center>
+
+<center><p><a href="https://www.firstinspires.org/robotics/frc"><img src="https://www.indianafirst.org/files/FIRSTRobotics_iconHorz_RGB.jpg"></a></p></center>
 	
 </ul>
 
