@@ -69,6 +69,7 @@ p    {color: black; text-align:center;font: 36px lato;}
 <body>
 <div id="header">
 <img src = "https://i.imgur.com/iI7F3pP.jpg">
+<a href="https://warrobotics.com"</a>
 <a id="button" href="sponsors.html"><u>Sponsors</u></a>
 <a id="button" href="subteams.html"><u>Subteams</u></a>
 <a id="button" href="pictures.html"><u>Pictures</u></a>
@@ -92,7 +93,7 @@ promote the values of FIRST ® robotics.
 <hr>
 
 	<h2>
-	What is FIRST ®?
+	What is FIRST®?
 </h2>
 
 Every year, thousands of robotics teams from around the globe participate in a yearly, unique game where the participants work and engage
