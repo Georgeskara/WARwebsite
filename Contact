@@ -1,74 +1,16 @@
 <!DOCTYPE html>
 <html>
 <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-<style>
-body {background-color: #850001;}
-h1   {color: black; text-align:left;font: 16px lato;
-			padding:0% 5% 5% 5%;}
-p    {color: black; text-align:center;font: 36px lato;}
-#intro{
-	background-color: #F5F5F5;
-	width:80%;
-	min-width: 800px;
-	color:#000000;
-	text-justify: inter-word;
-	margin-top:124px;
-	margin-left:10%;
-	font: 18px arial, sans-serif;
-	padding:13px 1% 0.5% 1.5%;
-	display:inline-block
-}
-#teams{
-	background-color: #F5F5F5;
-	width:80%;
-	min-width: 800px;
-	color:#000000;
-	text-justify: inter-word;
-	margin-top:65px;
-	margin-left:10%;
-	font: 18px arial, sans-serif;
-	padding:13px 1% 0.5% 1.5%;
-	display:inline-block
-}
-#header{
-	position:fixed;
-	left:0px;
-	right:0px;
-	top:0px;
-	height:64px;
-	overflow-x:hidden;
-	overflow-y:hidden;
-	background-color: #440000;
-	color:#F5F5F5;
-	text-justify: inter-word;
-	font: 18px arial, sans-serif;
-	padding:20px 0px 20px 20px;
-	display:inline-block
-	height:100px !important;
-}
-#button{
-	padding-top:15px !important;
-	padding-bottom:24px !important;
-	padding-right:24px !important;
-	padding-left:24px !important;
-	color:#F5F5F5 !important;
-	font-family: 'Arial', sans-serif;
-	font-size:24px;
-	float:right;
-}
-</style>
-
-
-
 
 <head>
+<link href="style.css" rel="stylesheet" type="text/css">
 	<title>Contacts
 	</title>
 </head>
 
 <body>
 <div id="header">
-<img src = "http://veryinterestinglinktoteamimage.jpg">
+<a href="https://wandorobotics.com"><img src = "https://i.imgur.com/K1vqKfe.png" width="200" height="74">
 <a id="button" href="sponsors.html"><u>Sponsors</u></a>
 <a id="button" href="subteams.html"><u>Subteams</u></a>
 <a id="button" href="pictures.html"><u>Pictures</u></a>
@@ -77,10 +19,18 @@ p    {color: black; text-align:center;font: 36px lato;}
 </div>
 <div id="intro">
 
-<p style="font-size: 60px">Contacts</h1>
+<p style="font-size: 60px">Contacts</p>
+
+<hr>
+
+<p style="font-size: 40 px">Should any issue arise, please contact one of the following below:</p>
 
 <ul>
-    <li>Cheeseman's mail: giselle_cheeseman@charleston.k12.sc.us</li>
-    <li>Cheeseman's phone: 843-881-8200</li>
-    <li>(111)111-1111</li>
-    <li>(222)222-2222</li>
+    <li>Cheeseman's Mail: giselle_cheeseman@charleston.k12.sc.us</li>
+    <li>Cheeseman's Phone: (843)881-8200</li>
+</ul>
+
+<hr>
+
+<p style="font-size: 40px">Social Media</p>
+<center><p><a href="https://www.facebook.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/2000px-Facebook_New_Logo_%282015%29.svg.png" width="600" height="225"></a></p></center>
