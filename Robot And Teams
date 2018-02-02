@@ -1,74 +1,16 @@
 <!DOCTYPE html>
 <html>
 <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-<style>
-body {background-color: #850001;}
-h1   {color: black; text-align:left;font: 16px lato;
-			padding:0% 5% 5% 5%;}
-p    {color: black; text-align:center;font: 36px lato;}
-#intro{
-	background-color: #F5F5F5;
-	width:80%;
-	min-width: 800px;
-	color:#000000;
-	text-justify: inter-word;
-	margin-top:124px;
-	margin-left:10%;
-	font: 18px arial, sans-serif;
-	padding:13px 1% 0.5% 1.5%;
-	display:inline-block
-}
-#teams{
-	background-color: #F5F5F5;
-	width:80%;
-	min-width: 800px;
-	color:#000000;
-	text-justify: inter-word;
-	margin-top:65px;
-	margin-left:10%;
-	font: 18px arial, sans-serif;
-	padding:13px 1% 0.5% 1.5%;
-	display:inline-block
-}
-#header{
-	position:fixed;
-	left:0px;
-	right:0px;
-	top:0px;
-	height:64px;
-	overflow-x:hidden;
-	overflow-y:hidden;
-	background-color: #440000;
-	color:#F5F5F5;
-	text-justify: inter-word;
-	font: 18px arial, sans-serif;
-	padding:20px 0px 20px 20px;
-	display:inline-block
-	height:100px !important;
-}
-#button{
-	padding-top:15px !important;
-	padding-bottom:24px !important;
-	padding-right:24px !important;
-	padding-left:24px !important;
-	color:#F5F5F5 !important;
-	font-family: 'Arial', sans-serif;
-	font-size:24px;
-	float:right;
-}
-</style>
-
-
-
 
 <head>
+<link href="style.css" rel="stylesheet" type="text/css">
 	<title>Robot and Team History
 	</title>
 </head>
 
 <body>
 <div id="header">
-<img src = "https://i.imgur.com/iI7F3pP.jpg">
+<a href="https://wandorobotics.com"><img src = "https://i.imgur.com/K1vqKfe.png" width="200" height="74">
 <a id="button" href="sponsors.html"><u>Sponsors</u></a>
 <a id="button" href="subteams.html"><u>Subteams</u></a>
 <a id="button" href="pictures.html"><u>Pictures</u></a>
@@ -79,9 +21,8 @@ p    {color: black; text-align:center;font: 36px lato;}
 <h1>
 	<p>2013: Ultimate Ascent (Bot Name: Fris-Bot) </p>
 	</h1>
-
-<h3><img id="ourpic" src="2013_robot.jpg" height=75 width=225 style="float: right;"/>WAR made its debut within FIRST® robotics 
-during the 2013 season which was during a game called Ultimate Ascent. Alliances would work together to attempt to shoot as many
+<center><img src="https://bloximages.newyork1.vip.townnews.com/moultrienews.com/content/tncms/assets/v3/editorial/1/a8/1a81e643-bfb0-5675-8eae-8bba7f76c525/5807ebdb4272a.image.jpg" border="5"></center>
+<h3>WAR made its debut within FIRST® robotics during the 2013 season which was during a game called Ultimate Ascent. Alliances would work together to attempt to shoot as many
 frisbee disks as possible into their goals during two minute and 15 second matches. Scoring discs in higher goals yields more points
 that the alliance will recieve. Then, during the near end of the match, each robot will try to climb the pyramids in the
 middle, scoring points based off of how high the robot climbed. WAR members participated in their first competition at Palmetto 
@@ -94,11 +35,10 @@ Workshop) could pick up frisbees from the human players and shoot them into the 
 <h1>
 	<p>2014: Areial Assist (Bot Name: Yoga-Bot) </p>
 	</h1>
-
-<h3><img id="ourpic" src="2014_robot.jpg" height=75 width=225 style="float: right;"/>2014 introduced Areial Assist, a 
-game where teams of three robots play by passing 20" diameter balls between each other and eventually scoring them in 
-goals across the game field, all while being suspended five feet into the air. This game encourages teamwork with your 
-allies, meaning the more that you score your allies ball in their goals, the more points your alliance will get. When 
+<center><img src="https://i.imgur.com/WgTG7W1.jpg" width="640" height="480" border="5"></center>
+<h3>2014 introduced Areial Assist, a game where teams of three robots play by passing 20" diameter balls between each other and 
+eventually scoring them in goals across the game field, all while being suspended five feet into the air. This game encourages teamwork
+with your allies, meaning the more that you score your allies ball in their goals, the more points your alliance will get. When 
 the match begins, there is a ten-second Autonomous Period, where each robot could begin with a ball to make an 
 attempt to score, which is determined by random. After the Autonomous Period, the drivers manually control their 
 respective robot in order to cycle one ball as many times as they can between their alliance, to score assist points. 
@@ -112,8 +52,8 @@ different teams wanting to ally with us.
 <h1>
 	<p>2015: Recycle Rush (Bot Name: Tote-Bot "BAE") </p>
 	</h1>
-	
-<h3><img id="ourpic" src="2015_robot.jpg" height=75 width=225 style="float: right;"/>During January to April of 2015, Team 4533 
+<center><img src="http://charlestonempowered.com/wp-content/uploads/2015/03/WAR-NC-2015-judges.jpg" width="640" height="480" border="5"></center>	
+<h3>During January to April of 2015, Team 4533 
 participated in the game Recycle Rush. It involves picking up and stacking totes on scoring platforms, putting pool noodles 
 inside recycling containers, and putting the containers on top of scoring stacks of totes. Alliances can also pool and stack 
 their totes, dividing the field to gain additional points.  Alliances that leave litter on the playing field will result in 
@@ -127,13 +67,12 @@ and place the totes on a platform and repeat this process to score maximum point
 <h1>
 	<p>2016: Stronghold (Bot Name: Clown Car) </p>
 	</h1>
-	
-<h3><img id="ourpic" src="2016_robot.jpg" height=75 width=225 style="float: right;"/>FIRST® introduced Stronghold during the 2016 season, 
-and is a competition where an alliance of three robots attempt to cross field obstacles as well as weakening the opposing alliance's towers 
-by throwing "boulders" into the goals at the top and bottom of the towers. In order to weaken the enemy's tower though, you will have to break 
-through their defense. During the last stages of the game, the robots have the oppurtunity  to climb their own tower to gain additional points 
-for the alliance before the game ends. Team 4533 mainly focused on overcoming the field obstacles and defending the field from opposing robots. 
-4533 competed at the Smokey Mountains and Palmetto Reigonal, where the team ended with a 5-5 and 5-7 record.
+<center><img src="http://charlestonempowered.com/wp-content/uploads/2016/10/DSC03184-1030x397.jpg" width="640" height="246" border="5"></center>	
+<h3>FIRST® introduced Stronghold during the 2016 season, and is a competition where an alliance of three robots attempt to cross field 
+obstacles as well as weakening the opposing alliance's towers by throwing "boulders" into the goals at the top and bottom of the towers. In order to weaken the enemy's tower though, you will have to break 
+through their defense. During the last stages of the game, the robots have the oppurtunity  to climb their own tower to gain additional
+points for the alliance before the game ends. Team 4533 mainly focused on overcoming the field obstacles and defending the field from 
+opposing robots. 4533 competed at the Smokey Mountains and Palmetto Reigonal, where the team ended with a 5-5 and 5-7 record.
 	</h3>
 	
 <hr>
@@ -141,8 +80,8 @@ for the alliance before the game ends. Team 4533 mainly focused on overcoming th
 <h1>
 	<p>2017: Steamworks (Bot Name: Carrie Fisher) </p>
 	</h1>
-	
-<h3><img id="ourpic" src="2017_robot.jpg" height=75 width=225 style="float: right;"/>FIRST® Steamworks is a steampunk themed game where
+<center><img src="https://gm1.ggpht.com/DyDgqARMaonAk_LB84v8CRhAOC1TqkY73EpDLWUQH_XXLCclPE6DtNy6MSAHuZ0Hk8IF1WVSc9jLd-bkvtEbQsjmMzZ7Ubdi0es1lufAfaNGWuB0-u4gqk_CckWm-yv_zncdUoeNU0mbdEUbCrCZnfh_C4J3dyLAOZfvC4_bEykJ0_1AGYty9xHsm4ygpJ2qtKsNBMWjq2btOm-CTgHOanxIia7vAS7x9Y2xGt3rlm0m9_6KvqbhK8FdRnNvlnhundsgY0Lb3lV7CugDgr2JnKuXDVqLp6FYJ2l7o4gdQ7OvDzcMvvwQcX0bVBNZul3mGSnKiPPJP8dkuUXLlP6Ab0ZFA9E9zmbYrThr4aJeV3rXifyfZvFP2UeCyPriPu6Rbsl7FYJdk5TiUhJ67jyDYfs_90EgYGW5FNMd_QcvnppyE8vJD2rzpiEPBonfQFu8hrEAq6D1G_UopIqkmIl5VH_ZlthoFGUq2b89kYQbBpFy3S3ySTQE56V19PVBs5P-9H8oQ1509WdDhGSUbYniC8Joxlggr9KYzZMg1mgoU2q1Y4WjS9nOMLLddd58-PGIH2rtE45JBtXH5yUB9zRVIqSx7UaFESvUYbf0Hi45RLTaeqCC2vHN__YFE_gQxHr5Rd92O0RVE7Mf8R9deJ11NNJbtcZoRHyfeKHz1DoYxXznBVjwkP5KOh0tqjGi=s0-l75-ft-l75-ft" width="640" height="480" border="5"></center>
+<h3>FIRST® Steamworks is a steampunk themed game where
 robots attempt to deliver plastic gears to the pilot in the alliance's airship. Robots can also shoots whiffleballs representing fuel
 into the boilers on the edges of the field in an attempt to break a stalemate to gain a small advantage over the opponent. During the
 last 30 seconds of the match, robots can climb the airships before the timer reaches 0 to gain an additional 50 points for each robot 
@@ -157,7 +96,7 @@ it our most successful year so far.
 	<p>2018: Power (Bot Name: Vicki)
 	</h1>
 	
-<h3><img id="bloopbleep.jpg" src="2018_robot.jpg" height=75 width=225 style="float: right;"/>...to be continued...
+	<h3>...to be continued...</h3>
 
 </div>
 </body>
